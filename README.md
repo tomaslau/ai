@@ -9,3 +9,4 @@ https://python.langchain.com/en/latest/
 
 https://www.sanalabs.com/
 
+https://cohere.ai/
