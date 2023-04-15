@@ -12,3 +12,7 @@ https://www.sanalabs.com/
 https://cohere.ai/
 
 https://supertools.therundown.ai/
+
+https://learnprompting.org/docs/products
+
+https://github.com/reworkd/AgentGPT
