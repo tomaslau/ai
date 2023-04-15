@@ -16,3 +16,5 @@ https://supertools.therundown.ai/
 https://learnprompting.org/docs/products
 
 https://github.com/reworkd/AgentGPT
+
+https://www.phind.com/
